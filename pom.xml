@@ -21,7 +21,7 @@
     </properties>
     <repositories>
         <repository>
-            <id>maven-proxy-test</id>
+            <id>nexus</id>
             <name>maven proxy test</name>
             <url>http://localhost:8081/repository/maven-proxy-test/</url>
         </repository>
